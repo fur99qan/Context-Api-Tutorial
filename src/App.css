@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.example1{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 20px solid #969696;
+  background: #d9dbda;
+  margin: 10px;
+}
+
+.example2{
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  border: 20px solid #3d56f9;
+  background: #839ee7;
+  margin: 10px;
+}
